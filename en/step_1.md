@@ -1,59 +1,28 @@
-## Introduction
+The `<span></span>` tag can be used to change part of a text without starting a new line.
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+You can use the `<span>` tag to add an animation to part of the text: 
 
-### What you will make
-
---- no-print ---
-Add instructions for interacting with the embedded content here.
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
-
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
-
---- collapse ---
+--- code ---
 ---
-title: What you will need
----
-### Hardware
-
-+ A computer or tablet capable of running Scratch 3
-
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
+language: html
+filename: index.html
+line_numbers: false
 ---
 
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
+<h1><span class="movemeleft">L</span>orem ipsum</h1>
+--- /code ---
 
---- /collapse ---
+You can also use `<span>` to change the colour or strength of text: 
 
---- collapse ---
+--- code ---
 ---
-title: Additional information for educators
+language: html
+filename: index.html
+line_numbers: false
 ---
 
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <span class="tertiary scaleme">Atque</span> officia libero! </p>
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+--- /code ---
+  
+<iframe src="https://trinket.io/embed/html/3dc8314096?toggleCode=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>  
