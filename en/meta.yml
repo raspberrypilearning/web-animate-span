@@ -1,11 +1,9 @@
-title: default-project-template
+title: Animate part of a header or paragraph text
 hero_image: images/banner.png
-description: default-project-template description
+description: Animate part of a header or paragraph text
 version: 4
 listed: false
 copyedit: false
 last_tested: "2022-05-19"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Animate part of a header or paragraph text
