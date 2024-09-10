@@ -1,6 +1,6 @@
-The `<span></span>` tag can be used to change part of your text without starting a new line.
+De `<span></span>` tag kan worden gebruikt om een deel van je tekst te veranderen zonder een nieuwe regel te starten.
 
-You can use the `<span>` tag to add an animation to part of the text.
+Je kunt de `<span>` tag gebruiken om een animatie toe te voegen aan een deel van de tekst.
 
 ## --- code ---
 
@@ -12,7 +12,7 @@ line_numbers: false
 <h1><span class="movemeleft">L</span>orem ipsum</h1>
 --- /code ---
 
-You can also use `<span>` to change the colour or strength of text.
+Je kunt `<span>` ook gebruiken om de kleur of sterkte van tekst te veranderen.
 
 ## --- code ---
 
