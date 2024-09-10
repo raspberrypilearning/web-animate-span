@@ -41,7 +41,7 @@
 }
 
 @keyframes scale {
-  /* The twinkle animation code */
+  /* Le code d'animation de scintillement */
   0% {
     transform: scale(1, 1);
   }
@@ -65,7 +65,7 @@
 }
 
 @keyframes rollleft {
-  /* The roll animation code */
+  /* Le code de l'animation du roulement */
   from {
     transform: translate(-60vw) rotate(0deg);
     transform-origin: center;
@@ -83,7 +83,7 @@
 }
 
 @keyframes rollright {
-  /* The roll animation code */
+  /* Le code de l'animation du roulement */
   from {
     transform: translate(60vw) rotate(360deg);
     transform-origin: center;
@@ -105,7 +105,7 @@
 }
 
 @keyframes moveleft {
-  /* The roll animation code */
+  /* Le code de l'animation du roulement */
   from {
     transform: translate(-60vw);
   }
