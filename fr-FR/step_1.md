@@ -1,6 +1,6 @@
-The `<span></span>` tag can be used to change part of your text without starting a new line.
+La balise `<span></span>` peut être utilisée pour changer une partie de ton texte sans commencer une nouvelle ligne.
 
-You can use the `<span>` tag to add an animation to part of the text.
+Tu peux utiliser la balise `<span>` pour ajouter une animation à une partie du texte.
 
 ## --- code ---
 
@@ -12,7 +12,7 @@ line_numbers: false
 <h1><span class="movemeleft">L</span>orem ipsum</h1>
 --- /code ---
 
-You can also use `<span>` to change the colour or strength of text.
+Tu peux aussi utiliser `<span>` pour changer la couleur ou la force du texte.
 
 ## --- code ---
 
