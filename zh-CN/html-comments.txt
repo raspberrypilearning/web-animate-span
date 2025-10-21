@@ -1,11 +1,11 @@
-Title shown in web browsers
+网页浏览器中显示的标题
 
-Import fonts from Google
+从谷歌导入字体
 
-Include CSS style file
+包含 CSS 样式文件
 
-The page header code goes here
+页眉代码在这里
 
-The main content for the web page goes between the main tags
+网页的主要内容位于 main 标签之间
 
-Footer code goes here
+页脚代码在这里
